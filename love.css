@@ -1,0 +1,139 @@
+body{
+    background-color: aquamarine;
+
+}
+.stage1{
+    width:100%;
+    height:600px;
+    /* border:1px solid black; */
+    background-image: url(https://www.twnews.in/wp-content/uploads/2017/07/Boy-and-Girl.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin:0px;
+    position:absolute;
+    background-attachment: fixed;
+   
+}
+#description1{
+    width:600px;
+    height: 150px;
+    background-color: crimson;
+    position:absolute;
+    padding:20px;
+    top:65%;
+    left:20%;
+    /* transform:translate(-50%, -50%); center me lane ka technique */
+    /* margin-top:50%;
+    margin-left:50%; */
+    /* border-align:center; */
+    border:1px solid black;
+    opacity: 0.7;
+    color:white;
+}
+.stage2{
+    width:100%;
+    height:600px;
+    /* border:1px solid black; */
+    background-image: url(https://www.shutterstock.com/image-photo/full-length-shot-man-standing-260nw-1304971438.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin-top:45%;
+    position:absolute;
+    background-attachment: fixed;
+}
+#description2{
+    width:600px;
+    height: 150px;
+    background-color: crimson;
+    position:absolute;
+    padding:20px;
+    top:65%;
+    left:20%;
+    /* transform:translate(-50%, -50%); center me lane ka technique */
+    /* margin-top:50%;
+    margin-left:50%; */
+    /* border-align:center; */
+    border:1px solid black;
+    opacity: 0.7;
+    color:white;
+}
+.stage3{
+    width:100%;
+    height:600px;
+    /* border:1px solid black; */
+    background-image: url(https://cdn.pixabay.com/photo/2016/10/06/05/19/couple-1718244_1280.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin-top:90%;
+    position:absolute;
+    background-attachment: fixed;
+}
+#description3{
+    width:600px;
+    height: 150px;
+    background-color: crimson;
+    position:absolute;
+    padding:20px;
+    top:65%;
+    left:20%;
+    /* transform:translate(-50%, -50%); center me lane ka technique */
+    /* margin-top:50%;
+    margin-left:50%; */
+    /* border-align:center; */
+    border:1px solid black;
+    opacity: 0.7;
+    color:white;
+}
+.stage4{
+    width:100%;
+    height:600px;
+    /* border:1px solid black; */
+    background-image: url(https://media.istockphoto.com/id/1141906552/photo/indian-hindu-couple-holding-each-other-hands-during-their-marriage-symbolising-love-and.jpg?s=612x612&w=0&k=20&c=brG8OkGBo5-tIABHlnGtVMu9X4lAC8ebpqGA2Xire6E=),url(https://png.pngtree.com/png-vector/20231010/ourmid/pngtree-indian-wedding-couple-sitting-on-floral-swing-illustration-png-image_10210119.png)
+    ,url(https://i.pinimg.com/736x/9e/a7/01/9ea7016c5ce528f95ab1a623a72d9506.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+
+    padding: 0px;
+    margin-top:135%;
+    position:absolute;
+    background-attachment: fixed;
+}
+#description4{
+    width:600px;
+    height: 150px;
+    background-color: crimson;
+    position:absolute;
+    padding:20px;
+    top:65%;
+    left:20%;
+    /* transform:translate(-50%, -50%); center me lane ka technique */
+    /* margin-top:50%;
+    margin-left:50%; */
+    /* border-align:center; */
+    border:1px solid black;
+    opacity: 0.7;
+    color:white;
+}
+#heading{
+    margin-top:180%;
+}
+.form_design{
+    width: 30%;
+    height: 40%;
+    padding: 40px;
+    border-radius:1px solid black;
+    position: relative;
+    top:10px;
+    left:30%;
+    background-color: darkgoldenrod;
+}
+.form_design input{
+    margin-left: 40px;
+
+}
+.submitt:hover{
+    background-color: blueviolet;
+}
